@@ -23,4 +23,5 @@ SMTP debug tool (from, recipients, data, attachment, attachment virus, delay com
 
 ### Screenshots
 
-![Captura BWL](/images/Captura1.PNG)
+![Captura Cartero](/images/cap1.PNG)
+![Captura Cartero](/images/cap2.PNG)
