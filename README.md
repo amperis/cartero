@@ -11,7 +11,7 @@ SMTP debug tool (from, recipients, data, attachment, attachment virus, delay com
 * Version 0.2:
    * FIX: resolve error whois
    * FIX: SMTP timeout connection
-   * NEW: include threads in MX resolv
+   * NEW: include threads in MX resolve
    * NEW: resolve host IP and host name
    
 * Version 0.1:
