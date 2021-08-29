@@ -1,0 +1,5 @@
+bin\Debug\dnsutils.dll
+bin\Debug\dnsutils.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\dnsutils.dll
+obj\Debug\dnsutils.pdb

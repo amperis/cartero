@@ -1,0 +1,6 @@
+G:\Mi unidad\PROGRAMACION\carterov02_source\cartero\dnsutils\bin\Debug\dnsutils.dll
+G:\Mi unidad\PROGRAMACION\carterov02_source\cartero\dnsutils\bin\Debug\dnsutils.pdb
+G:\Mi unidad\PROGRAMACION\carterov02_source\cartero\dnsutils\obj\Debug\netutils.csproj.AssemblyReference.cache
+G:\Mi unidad\PROGRAMACION\carterov02_source\cartero\dnsutils\obj\Debug\netutils.csproj.CoreCompileInputs.cache
+G:\Mi unidad\PROGRAMACION\carterov02_source\cartero\dnsutils\obj\Debug\dnsutils.dll
+G:\Mi unidad\PROGRAMACION\carterov02_source\cartero\dnsutils\obj\Debug\dnsutils.pdb

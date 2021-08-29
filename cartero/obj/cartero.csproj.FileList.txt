@@ -1,0 +1,10 @@
+obj\Debug\cartero.exe
+obj\Debug\cartero.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\cartero.formCartero.resources
+obj\Debug\cartero.csproj.GenerateResource.Cache
+bin\Debug\cartero.exe
+bin\Debug\cartero.pdb
+bin\Debug\dnsutils.dll
+bin\Debug\dnsutils.pdb
+obj\Debug\cartero.Properties.Resources.resources

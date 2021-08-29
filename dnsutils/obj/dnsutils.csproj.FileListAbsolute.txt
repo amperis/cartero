@@ -1,0 +1,5 @@
+C:\Users\amperis\Documents\Visual Studio 2005\Projects\cartero\dnsutils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amperis\Documents\Visual Studio 2005\Projects\cartero\dnsutils\bin\Debug\dnsutils.dll
+C:\Users\amperis\Documents\Visual Studio 2005\Projects\cartero\dnsutils\bin\Debug\dnsutils.pdb
+C:\Users\amperis\Documents\Visual Studio 2005\Projects\cartero\dnsutils\obj\Debug\dnsutils.dll
+C:\Users\amperis\Documents\Visual Studio 2005\Projects\cartero\dnsutils\obj\Debug\dnsutils.pdb

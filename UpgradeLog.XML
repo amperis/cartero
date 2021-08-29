@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="cartero">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\amperis\Documents\Visual Studio 2005\Projects\cartero\cartero.sln">
+</Property><Property Name="Date" Value="jueves, 23 de abril de 2009">
+</Property><Property Name="Time" Value="23:45:49">
+</Property></Properties><Event ErrorLevel="0" Project="Ping" Source="Ping\Ping.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto C:\Users\amperis\Documents\Visual Studio 2005\Projects\cartero\Backup\Ping.csproj">
+</Event><Event ErrorLevel="0" Project="Ping" Source="Ping\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\amperis\Documents\Visual Studio 2005\Projects\cartero\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Ping" Source="Ping\Constants.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\amperis\Documents\Visual Studio 2005\Projects\cartero\Backup\Constants.cs">
+</Event><Event ErrorLevel="0" Project="Ping" Source="Ping\Enums\InternetConnectionStateType.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\amperis\Documents\Visual Studio 2005\Projects\cartero\Backup\Enums\InternetConnectionStateType.cs">
+</Event><Event ErrorLevel="0" Project="Ping" Source="Ping\Enums\PingResponseType.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\amperis\Documents\Visual Studio 2005\Projects\cartero\Backup\Enums\PingResponseType.cs">
+</Event><Event ErrorLevel="0" Project="Ping" Source="Ping\Event Args\PingCompletedEventArgs.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\amperis\Documents\Visual Studio 2005\Projects\cartero\Backup\Event Args\PingCompletedEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="Ping" Source="Ping\Event Args\PingErrorEventArgs.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\amperis\Documents\Visual Studio 2005\Projects\cartero\Backup\Event Args\PingErrorEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="Ping" Source="Ping\Event Args\PingResponseEventArgs.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\amperis\Documents\Visual Studio 2005\Projects\cartero\Backup\Event Args\PingResponseEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="Ping" Source="Ping\Event Args\PingStartedEventArgs.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\amperis\Documents\Visual Studio 2005\Projects\cartero\Backup\Event Args\PingStartedEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="Ping" Source="Ping\IcmpPacket.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\amperis\Documents\Visual Studio 2005\Projects\cartero\Backup\IcmpPacket.cs">
+</Event><Event ErrorLevel="0" Project="Ping" Source="Ping\NetworkUtilities.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\amperis\Documents\Visual Studio 2005\Projects\cartero\Backup\NetworkUtilities.cs">
+</Event><Event ErrorLevel="0" Project="Ping" Source="Ping\Ping.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\amperis\Documents\Visual Studio 2005\Projects\cartero\Backup\Ping.cs">
+</Event><Event ErrorLevel="0" Project="Ping" Source="Ping\PingResponse.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\amperis\Documents\Visual Studio 2005\Projects\cartero\Backup\PingResponse.cs">
+</Event><Event ErrorLevel="0" Project="Ping" Source="Ping\Validation.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\amperis\Documents\Visual Studio 2005\Projects\cartero\Backup\Validation.cs">
+</Event><Event ErrorLevel="0" Project="Ping" Source="Ping\Ping.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\amperis\Documents\Visual Studio 2005\Projects\cartero\Backup\Ping.resx">
+</Event><Event ErrorLevel="0" Project="Ping" Source="Ping\Ping.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Ping" Source="Ping\Ping.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Ping" Source="Ping\Ping.csproj" Description="Búsqueda completa: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>
