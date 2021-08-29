@@ -19,7 +19,7 @@ SMTP debug tool (from, recipients, data, attachment, attachment virus, delay com
 
 ### Binary
 
-* Ultima version 0.2: [bw.zip (x86)](https://github.com/amperis/bwl/raw/main/BINARIO/bw.zip)
+* Last version 0.2: [cartero-v02.zip (x86)](https://github.com/amperis/cartero/raw/main/bin/cartero-v02.zip)
 
 ### Screenshots
 
